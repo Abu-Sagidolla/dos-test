@@ -1,0 +1,7 @@
+google.com
+quad9.net
+opendns.com
+cloudflair.com
+cleanbrowsing.com
+alternate-dns.com
+adguard-dns.com

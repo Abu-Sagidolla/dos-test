@@ -1,0 +1,8 @@
+Инструкция 
+
+запускать команду :
+python2 main.py target --dns server.txt:domains.txt --threads N
+
+
+N - количество потоков 
+Target  адрес жертвы 

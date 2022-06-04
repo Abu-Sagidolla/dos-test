@@ -1,0 +1,8 @@
+Инструкция 
+
+запускать команду :
+python main.py -mode cc -url "http://example.com" -t N -proxy_type n
+
+
+N - количество потоков 
+n - тип прокси   socks4 или socks 5
